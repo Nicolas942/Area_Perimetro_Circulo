@@ -18,4 +18,4 @@ a = math.pi*r**2
 print("###########################")
 print("El area es: "+ str (a))
 print("El perimetro es: "+ str (p))
-print("###########################")
+print("##########################")
